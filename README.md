@@ -4,8 +4,7 @@ Saya memiliki ketertarikan dalam pengembangan perangkat lunak, pemrograman, dan 
 
 💡 Minat saya mencakup:  
 - Web Development  
-- Database & Backend  
-- Teknologi Cloud dan Sistem Informasi  
+- Database & Backend
 
 Saya terbuka untuk berkolaborasi dalam proyek open-source, penelitian, maupun pengembangan aplikasi.
 
